@@ -51,3 +51,4 @@ Her eyes glaze over for a bit, then she looks back to Beau_ “Y’know it’s w
 _She’ll raise an eyebrow at Beau but not press on that matter of employer and thieves guild, what with how helpful he was in the fight. And she’ll turn to Jiwho_ “I won’t lie a good long rest would be nice! But, if we have to press on I think I’m at least still strong enough to keep my armor on without slowing us down any.” (edited)
 #### <mark style="background: #FFB86CA6;">Jayden(Ahri/Beau)!GAWD _—_ 3:53 PM</mark>
 “You did take a nasty blow, if it makes you feel any better im sure my heart wouldve stopped being hit that hard.” He felt his coat. “I usually carry potions on me, not today it seems.”
+
