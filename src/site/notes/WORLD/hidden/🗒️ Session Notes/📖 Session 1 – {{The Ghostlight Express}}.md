@@ -3,6 +3,7 @@
 ---
 
 [[WORLD/hidden/🗒️ Session Notes/Session Index\|Session Index]]
+[[Digital Garden\|Digital Garden]]
 
 ---
 # 📖  {{The Ghostlight Express}}
