@@ -130,6 +130,17 @@ There is a spectral figure eating Scooby-Doo style and talking crazy about a roc
 Zora's [[compass\|compass]] is still pointing forward
 (PC I FORGOT) Eats some of the sp
 
+#### <mark style="background: #FFB8EBA6;">Baggage Car</mark>
+#haint
+In the musty baggage car, the clatter of chains echoes as Grimm moves through heaps of old luggage, noting one conspicuous pile marked with a golden "D."
+A hungry, spectral figure lingers nearby, craving a final meal—pizza, steak and eggs, anything. 
+Grimm finds a discarded medical bag labeled "FEY" and quickly rifles through it, discovering empty vials and a crumpled note that reads: 
+- _"Test failed. Currently infected. Enemies of progress destroyed lab. Must head toward unorthodox hospital to seek experimental medication."
+
+ Searching further, Grimm uncovers a pouch of coins, arcane-etched goggles and a silver ring with a ruby, worth 20 gold but non-magical. He offers food to the spectral creature, who gratefully accepts and, after a brief exchange
+ - *"Do you have a rock?" "No, I’ve been here a long time"
+ - he vanishes.
+
 ---
 ## 🤡 NPCs Met
 - **Name** – 
