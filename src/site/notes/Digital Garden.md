@@ -19,5 +19,8 @@
 
 ## <mark style="background: #ADCCFFA6;">NPC's</mark>
 [[The Vagrant/The Stranger\|The Vagrant/The Stranger]]
-[[Mr.Druskenvald\|Mr.Druskenvald]]
+[[Definitions/Mr.Druskenvald\|Mr.Druskenvald]]
 [[Definitions/Mrs.Druskenvald\|Mrs.Druskenvald]]
+
+## <mark style="background: #ADCCFFA6;">Out of Game RP</mark>
+[[Wandering the Ghostlight\|Wandering the Ghostlight]]
