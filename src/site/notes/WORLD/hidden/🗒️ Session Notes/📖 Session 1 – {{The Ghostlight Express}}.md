@@ -107,7 +107,7 @@ They Board the train into the last car, seeing green smoke in the distance, the 
 - THERE IS A COMM SYSTEM THROUGH THE TRAIN THE PARTY CAN USE IF AT ANY TIME THEY NEED TO TALK TO THE VAGRANT
 
 #### <mark style="background: #FFB8EBA6;">⚔️Combat</mark>
-The party take a minute to introduce themselves while (PC I FORGOT) starts harrassing a ghost by waving his hand through them. A loud crash is heard and mist comes spilling into the train, transforming the accosted ghost into a corrupted haint and another spectral being screams in the back. The party fight the beings some coming very close to death.
+The party take a minute to introduce themselves while Trick starts harrassing a ghost by waving his hand through them. A loud crash is heard and mist comes spilling into the train, transforming the accosted ghost into a corrupted haint and another spectral being screams in the back. The party fight the beings some coming very close to death.
 
 #### <mark style="background: #FFB8EBA6;">Vagrant Asks For Help</mark>
 The Vagrant explains that haints power the train and unless this situation is dealt with the train can't stop. He tasks us to release the Haints and directs us to the Tender (the main fuel storage) to check for corruption. He warns us to not tell Mr. & Mrs. Druskenvald.
