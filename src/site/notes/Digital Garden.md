@@ -19,6 +19,7 @@
 
 ## <mark style="background: #ADCCFFA6;">NPC's</mark>
 [[Definitions/The Vagrant\|The Vagrant]]
-
+[[Mr. Druskenvald\|Mr. Druskenvald]]
+[[Mrs. Druskenvald\|Mrs. Druskenvald]]
 ## <mark style="background: #ADCCFFA6;">Out of Game RP</mark>
 [[WORLD/hidden/🗒️ Session Notes/Wandering the Ghostlight\|Wandering the Ghostlight]]
