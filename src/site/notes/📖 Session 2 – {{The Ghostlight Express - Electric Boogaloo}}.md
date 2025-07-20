@@ -92,6 +92,7 @@ Mr. Druskenvald invites the group to stay with them in their own [[Chateau Clair
 
 The party introduce themselves as they meet at the bar. Trick tries to poke Mr.Druskenvald, who takes his cane and lowers Trick's hand. Beau bows to Mr. Druskenvald. Everyone grabs some alcohol ... or milk. Grimm approaches adela and says, "Madam, Grim halverek, science expert of the mortal realm, leading expert. I am pleased to meet your service." Jiwho compliments Adelas cards and she offers everyone a Tarot reading.
 ### 🔮 Tarot Readings by Adela
+Each card drawn will have a **mechanical effect later** in the campaign.
 
 |            | Question                                                 | Card                                                                     | Meaning                                                                                                                                                                                                                                              |
 | ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +102,6 @@ The party introduce themselves as they meet at the bar. Trick tries to poke Mr.D
 | **Zora**   | Are my parents proud of me?                              | [[Strength\|Strength]]                                                             | Don't let the past bury you.                                                                                                                                                                                                                         |
 | **Eleana** | Is my sister safe?                                       | [[Temperance\|Temperance]]                                                           | Change end endurance. Life and death can be chaos but in turmoil you can embrace change.                                                                                                                                                             |
 | **Trick**  | Am I here for him or me?                                 | Attempts to cheat fate and draw [[Death\|Death]] instead receives [[The Tower\|The Tower]] | "*I guess fate didn't have that card in mind. Tarot doesn't lie, you can't trick fate and unfortunately it seems fate knows.*"<br>Something in your life is soon to be destroyed. If the forest burns, from the ashes another forest will grow anew. |
-Each card drawn will have a **mechanical effect later** in the campaign.
 
 ### 🎶 The Songstress
 
@@ -114,6 +114,5 @@ Beau: "*Looks like something's eatin' at you.*"
 Ghost: "*Just the fact I never found that perfect song.*"
 
 Eleana offers her the Jazz record that she had found in the sleeper car but the ghost replies "*I have nothing to play it on*". The party assure her that they will return with a record player so she can give one final performance.
-
 
 ---
