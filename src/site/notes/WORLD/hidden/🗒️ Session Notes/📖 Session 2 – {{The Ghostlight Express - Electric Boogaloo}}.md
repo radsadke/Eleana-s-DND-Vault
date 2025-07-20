@@ -81,14 +81,14 @@ Grimm hears the sound of a woman speaking in the next car and the party move on.
 
 The next car opens into understated luxury. The walls are lined with gold patterns, there is plush velvet and soft light. Landscape painting line the wall, a painting of the ocean at night catch the eyes of the party.
 
-At the bar is a man, Phillip and his wife Adela sits at a table with champagne in her hand. The two laugh as they hear the door open.
+At the bar is a man, Phillip [[Mr. Druskenvald\|Mr. Druskenvald]] and his wife Adela [[Mrs. Druskenvald\|Mrs. Druskenvald]] sits at a table with champagne in her hand. The two laugh as they hear the door open.
 
 Phillip:   *Hello friends, my name is Phillip. I'm the lord here and this is my wife Adela.*
 Adela:   *More Living people, this is fantastic! I've seen you guys before in my  dreams or something.*
 Eleana:  *You've seen us in your dreams?*  
 Adela:   *Indeed. I'm what they call clairvoyant.*  
 
-[[Mr. Druskenvald\|Mr. Druskenvald]] invites the group to stay with them in their own [[Chateau Claire de Lune\|Chateau Claire de Lune]], which he claims has over a thousand rooms as the trips aboard [[Definitions/The Ghostlight Express\|The Ghostlight Express]] only happen once every two weeks. 
+Mr. Druskenvald invites the group to stay with them in their own [[Chateau Claire de Lune\|Chateau Claire de Lune]], which he claims has over a thousand rooms as the trips aboard [[Definitions/The Ghostlight Express\|The Ghostlight Express]] only happen once every two weeks. 
 
 The party introduce themselves as they meet at the bar. Trick tries to poke Mr. Druskenvald, who takes his cane and lowers Trick's hand. Beau bows to Mr. Druskenvald. Everyone grabs some alcohol ... or milk. Grimm approaches adela and says, "Madam, Grim halverek, science expert of the mortal realm, leading expert. I am pleased to meet your service." Jiwho compliments Adelas cards and she offers everyone a Tarot reading.
 ### 🔮🎴 <mark style="background: #FFB8EBA6;">Tarot Readings by Adela</mark>
