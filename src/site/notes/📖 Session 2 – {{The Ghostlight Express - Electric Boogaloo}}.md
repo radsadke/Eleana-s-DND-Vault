@@ -22,10 +22,9 @@ We find ourselves back on [[Definitions/The Ghostlight Express\|The Ghostlight E
 
 # 🎪 Circus Car
 
-![jester.png|185x193](/img/user/images/jester.png)
 "The next car is strange... lining the car are five empty cages, decaying hay, musty water, and the smell of iron-blood." There are remnants of a circus, twisted whimsy, faded banners, terrifying animals, sideshows.
 
-Suspended from the center of the car is a spectral woman dressed as a jester, swinging from a trapeze. Her face is racked with shame. The party watches her attempt a flip and unceremoniously land on the floor, muttering to herself.
+Suspended from the center of the car is a spectral woman dressed as a [[Jester\|Jester]], swinging from a trapeze. Her face is racked with shame. The party watches her attempt a flip and unceremoniously land on the floor, muttering to herself.
 
 > "*Mr. Jay would have gotten rid of me after what I did to all those poor people... I wish they didn't get hurt..*."
 
@@ -49,11 +48,8 @@ The party investigate the room and old circus games and a box of creepy marionet
 ---
 ## 📬 Mail Car
 
-![mariner.png|162x253](/img/user/images/mariner.png)
-
-
-
 The next car is filled with two rows of heavy mail satchels and bins filled with parcels and envelopes. In the center there is a ghostly man, with a seagull on its head, moving packages back and forth. 
+[[The Mariner\|The Mariner]]
 
 "*I just wish I could see the sea on more time... only thing that feels like I'm back where I should be - I should have died on the sea."
 
@@ -108,7 +104,8 @@ The party introduce themselves as they meet at the bar. Trick tries to poke Mr.D
 Each card drawn will have a **mechanical effect later** in the campaign.
 
 ### 🎶 The Songstress
-![songstress.png|259x323](/img/user/songstress.png)
+
+[[The Songstress\|The Songstress]]
 In the corner is a ghostly woman who stares longingly our the window, cigarette in hand. 
 
 Beau:    "*Seat Taken ma'am?*"
