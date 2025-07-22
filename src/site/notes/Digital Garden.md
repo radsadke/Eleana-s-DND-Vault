@@ -24,3 +24,5 @@
 ## <mark style="background: #ADCCFFA6;">Out of Game RP</mark>
 [[WORLD/hidden/🗒️ Session Notes/Wandering the Ghostlight\|Wandering the Ghostlight]]
 [[Wandering the Forest\|Wandering the Forest]]
+
+![cover dnd.jpg](/img/user/cover%20dnd.jpg)
