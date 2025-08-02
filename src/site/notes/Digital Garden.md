@@ -7,12 +7,13 @@
 ## <mark style="background: #ADCCFFA6;">Session Index</mark>
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 1 – {{The Ghostlight Express}}\|📖 Session 1 – {{The Ghostlight Express}}]] 
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 2 – {{The Ghostlight Express - Electric Boogaloo}}\|📖 Session 2 – {{The Ghostlight Express - Electric Boogaloo}}]]
+[[WORLD/hidden/🗒️ Session Notes/📖 Session 3 – {{Wickermoore Village}}\|📖 Session 3 – {{Wickermoore Village}}]]
 ## <mark style="background: #ADCCFFA6;">World/Setting</mark>
 [[WORLD/hidden/Setting/Welcome to Druskenvald!\|Welcome to Druskenvald!]]
 
 ## <mark style="background: #ADCCFFA6;">Party</mark>
 [[WORLD/hidden/🧬 Character/backstory/Eleana\|Eleana]]
-[[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Beaurgard Laroux\|Beaurgard Laroux]]
+[[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Beauregard Laroux\|Beauregard Laroux]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Zora Zorin\|Zora Zorin]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Trick\|Trick]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Jiwho\|Jiwho]]
@@ -23,6 +24,6 @@
 [[Definitions/Mrs. Druskenvald\|Mrs. Druskenvald]]
 ## <mark style="background: #ADCCFFA6;">Out of Game RP</mark>
 [[WORLD/hidden/🗒️ Session Notes/Wandering the Ghostlight\|Wandering the Ghostlight]]
-[[Wandering the Forest\|Wandering the Forest]]
+[[WORLD/hidden/🗒️ Session Notes/Out of Game RP/Wandering the Forest\|Wandering the Forest]]
 
-![cover dnd.jpg](/img/user/cover%20dnd.jpg)
+![cover dnd.jpg](/img/user/Images/cover%20dnd.jpg)
