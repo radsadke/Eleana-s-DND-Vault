@@ -87,7 +87,7 @@ Before Osiera walks into the inn, she leaves a wicker doll at the base of the tr
 
 The place is not too busy, people are sitting at tables and drinking at the bar. The energy is off though, people are silent and they hang their heads down. A stage is set up inside with a sign next to it, reading: “COMING THIS WEEKEND FOR ONE NIGHT ONLY – COMEDY SHOW – HEADLINER TBA”.
 
-The innkeeper (Ms. Farnum) welcomes them, “Well, I don’t get a lot of people like yourselves in Wickermoore. Welcome. What brings you all here friends?” Her outfit and hair give off an heir of quite authority. She’s got a scowl but is never rude.
+The innkeeper (Ms. Farnum) welcomes them, “Well, I don’t get a lot of people like yourselves in Wickermoore. Welcome. What brings you all here friends?” Her outfit and hair give off an air of quiet authority. She’s got a scowl but is never rude.
 
 B: Unfortunate train accident, you know the type. --  Pardon, but have you seen this woman? (He conjures the image again)
 F: Unfortunately I have not, though I’ve been busy with the sacrifice today. It’s been a slow day.
@@ -97,4 +97,4 @@ Grimm growls at that comment.
 
 Eleana does an insight check because she feels as if though the whole town is mad at them for disrupting their ritual. She feels stares from the denizens, some are shooting daggers at them. Osiera wonders if they are in danger. Beau reassures them that they are not in immediate danger but something is definitely off. The party relaxes. Osiera makes tea from the twigs in her hair while Grimm tries to drink the bar dry. Zora heals Grimm who insists that she drink with him even though she is a lightweight. (spoiler alert she gets wasted)
 
-Beau decides to people watch from the porch as the hour grows late and he notices two guards, a Constable and her Deputy, patrolling around. Anytime he makes eye contact with the townsfolk they look away, sometimes even slamming their doors or windows shut. He also notices that everyone in town seems to have the same heir of depression about them.
+Beau decides to people watch from the porch as the hour grows late and he notices two guards, a Constable and her Deputy, patrolling around. Anytime he makes eye contact with the townsfolk they look away, sometimes even slamming their doors or windows shut. He also notices that everyone in town seems to have the same air of depression about them.
