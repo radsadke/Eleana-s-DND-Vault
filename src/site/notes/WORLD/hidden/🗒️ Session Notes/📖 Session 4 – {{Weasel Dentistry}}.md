@@ -96,4 +96,24 @@ The area becomes to grow dense with psychic energy and everyone takes 5 psychic 
 F I N D  M Y  S O N  H E  L I V E S 
 G O O D B Y E
 The flames in the room extinguish
+
 O: "It didn't even know where my sister was!!"
+Oseira hears her sisters voice in the distance, "Come find me, why aren't you trying to find me?"
+
+### Kitchen
+Zora looks for the cup in the kitchen but notices there are no glasses. They go through the door on the other side of the kitchen.
+O: "We should just go upstairs."
+B: "Hold on, hold on."
+E: "I think it would be wiser to clear the floors first, we'll find her."
+O: "Ok, I'm goin' crazy."
+### Back of the kitchen
+They hear a scream coming from inside the oven out there
+Grimm rushes towards it and takes 3 points of damage. The door bursts open and flaming souls spill out screaming. Eleana takes 8 points of damage.
+
+The group investigate the rest of the room and spot a conservatory in the back.
+
+### Conservatory
+Jiwho sends in his wolf and it see's an old woman sitting there, just staring. The wolf cocks it's head to the side. Beau enters and tries to talk to the woman.
+(I can't hear the audio here and I can't remember everything that was said. I think it was something along the line of she feels bad for her children and the party thinks that she killed her own kids but that's not the case or something like that.)
+Anyways, Zora tries to persuade the woman to give her one of the momentos, the cup? and she hands it over. She also ends up taking the piece of lace around her neck off and her head falls off? (I might be making that up). Zora puts the ribbon in her hair. Cute! <3
+
