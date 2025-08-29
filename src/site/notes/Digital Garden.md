@@ -18,6 +18,7 @@
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Zora Zorin\|Zora Zorin]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Trick\|Trick]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Jiwho\|Jiwho]]
+[[Osiera\|Osiera]]
 
 ## <mark style="background: #ADCCFFA6;">NPC's</mark>
 [[Definitions/The Vagrant\|The Vagrant]]
