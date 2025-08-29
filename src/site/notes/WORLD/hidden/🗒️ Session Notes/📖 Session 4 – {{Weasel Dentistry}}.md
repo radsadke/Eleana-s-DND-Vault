@@ -53,39 +53,38 @@ ___
 - Everyone agrees that they should take a short rest in here but not everyone is on the same page about messing with the spirits so some sit back.
 
 N I C E  2  S E E  Y O U   A G A I N 
-
-Are you good?
+*Are you good?*
 Y E S
-Is Jiwho a very little scaredy cat?
+*Is Jiwho a very little scaredy cat?*
 Y E S
 F O R  G O O D  R E A S O N
 P A T R I N I
-Are you in one of the paintings on the wall?
+*Are you in one of the paintings on the wall?*
 Y E S
-Are you trapped here?
+*Are you trapped here?*
 Y E S
-Do you know where my sister is? (O from far away)
+*Do you know where my sister is?* (O from far away)
 N O  Y E S  N O  Y E S
-Do you know where the Druskenvalds are?
+*Do you know where the Druskenvalds are?*
 Y E S  U P S T A I R S
-Should we go upstairs?
+*Should we go upstairs?*
 Y E S  N O  Y E S  N O 
-What else is in this house?
+*What else is in this house?*
 H A G
-Why are you helping us?
+*Why are you helping us?*
 S T U C K  H E R E
-Who is the crooked man?
+*Who is the crooked man?*
 D  N O
-Where is the hag upstairs?
+*Where is the hag upstairs?*
 A T T I C
-Do we have any allies in this house?
+*Do we have any allies in this house?*
 N O  Y E S
-What's the most valuable thing in the house?
+*What's the most valuable thing in the house?*
 M O M E N T O S
 --Zora asks Jiwho to toss her the yellowed key--
-Is this one?
+*Is this one?*
 Y E S
-Where can we find more? How many are there?
+*Where can we find more? How many are there?*
 6  E V E R Y  F L O O R
 G E M
 K E Y
@@ -97,3 +96,4 @@ The area becomes to grow dense with psychic energy and everyone takes 5 psychic 
 F I N D  M Y  S O N  H E  L I V E S 
 G O O D B Y E
 The flames in the room extinguish
+O: "It didn't even know where my sister was!!"
