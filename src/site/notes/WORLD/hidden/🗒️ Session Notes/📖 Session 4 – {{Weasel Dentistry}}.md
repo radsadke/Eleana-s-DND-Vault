@@ -141,3 +141,6 @@ On the bed is her sisters necklace. On the wall is scratched and bloody imagery 
 
 ### End of Session
 
+O: "What the fuck?"
+Z: "No, Osiera doesn't get to say 'What the fuck?'"
+B: "You did this to yourself."
