@@ -24,6 +24,7 @@
 [[Definitions/The Vagrant\|The Vagrant]]
 [[Definitions/Mr. Druskenvald\|Mr. Druskenvald]]
 [[Definitions/Mrs. Druskenvald\|Mrs. Druskenvald]]
+[[The Crooked Man\|The Crooked Man]]
 ## <mark style="background: #ADCCFFA6;">Out of Game RP</mark>
 [[WORLD/hidden/🗒️ Session Notes/Wandering the Ghostlight\|Wandering the Ghostlight]]
 [[WORLD/hidden/🗒️ Session Notes/Out of Game RP/Wandering the Forest\|Wandering the Forest]]
