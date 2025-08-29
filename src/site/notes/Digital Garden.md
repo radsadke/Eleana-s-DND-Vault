@@ -8,6 +8,7 @@
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 1 – {{The Ghostlight Express}}\|📖 Session 1 – {{The Ghostlight Express}}]] 
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 2 – {{The Ghostlight Express - Electric Boogaloo}}\|📖 Session 2 – {{The Ghostlight Express - Electric Boogaloo}}]]
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 3 – {{Wickermoore Village}}\|📖 Session 3 – {{Wickermoore Village}}]]
+[[WORLD/hidden/🗒️ Session Notes/📖 Session 4 – {{Weasel Dentistry}}\|📖 Session 4 – {{Weasel Dentistry}}]]
 ## <mark style="background: #ADCCFFA6;">World/Setting</mark>
 [[WORLD/hidden/Setting/Welcome to Druskenvald!\|Welcome to Druskenvald!]]
 
