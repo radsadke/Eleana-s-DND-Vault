@@ -125,16 +125,16 @@ Then the party see the crooked man again and freak out. As he vanishes they hear
 The group doubles back to the entry way, intending to explore the room on the first floor. Grimm opens the door on the left. Paintings and statues line the wall, the centerpiece being a peacock featuring eyes made of gems.
 
 Osiera hears something from upstairs.
-- O: "Guys, she's up there. We have to go!"
+	- O: "Guys, she's up there. We have to go!"
 Eleana and Jiwho step up to Osiera in an attempt to sway her mind
-- E: "Wait a minute, Osiera."
-- O: "I can't"
+	- E: "Wait a minute, Osiera."
+	- O: "I can't"
 Osiera hears writing and has a burning urge to check her sisters' book. As she flips to the last page she see's an image of her sisters necklace laying atop a bed. Behind the bed attached to the wall are two shackles and chains.
 Osiera places one foot on the step. Eleana attempts to block her path but fails. Beau attempts to cast suggestion but fails. 
-- "Just wait five minutes, you can't go alone!"
+	- "Just wait five minutes, you can't go alone!"
 Osiera rushes past her. Eleana runs after her.
 Zora sighs
-- "We can come back after we find the others I guess."
+	- "We can come back after we find the others I guess."
 ### Upstairs
 The two run down a strange bent hallway framing a creaking door at it's end. They charge inside and stop to see a large bed, the same from the image in Osiera's book. The whole room is terrifying, decrepit, cracked, disheveled. The mirror on the vanity is shattered. Atop the writing desk is a beautiful black leather journal adorned with the initials P.D.
 
