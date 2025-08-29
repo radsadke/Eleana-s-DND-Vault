@@ -117,6 +117,7 @@ Jiwho sends in his wolf and it see's an old woman sitting there, just staring. T
 (I can't hear the audio here and I can't remember everything that was said. I think it was something along the line of she feels bad for her children and the party thinks that she killed her own kids but that's not the case or something like that.)
 - Sally - Attention
 - Arthur - Doctor
+
 Anyways, Zora tries to persuade the woman to give her one of the momentos, the cup? and she hands it over. She also ends up taking the piece of lace around her neck off and her head falls off? (I might be making that up). Zora puts the ribbon in her hair. Cute! <3
 Then the party see the crooked man again and freak out. As he vanishes they hear a maniacal laugh.
 
