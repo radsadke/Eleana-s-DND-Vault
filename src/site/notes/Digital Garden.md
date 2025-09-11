@@ -9,7 +9,7 @@
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 2 – {{The Ghostlight Express 2 - Electric Boogaloo}}\|📖 Session 2 – {{The Ghostlight Express 2 - Electric Boogaloo}}]]
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 3 – {{Wickermoore Village}}\|📖 Session 3 – {{Wickermoore Village}}]]
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 4 – {{Weasel Dentistry}}\|📖 Session 4 – {{Weasel Dentistry}}]]
-[[📖 Session 5 - {{The Gang Split Up}}\|📖 Session 5 - {{The Gang Split Up}}]]
+[[WORLD/hidden/🗒️ Session Notes/📖 Session 5 - {{The Gang Split Up}}\|📖 Session 5 - {{The Gang Split Up}}]]
 ## <mark style="background: #ADCCFFA6;">World/Setting</mark>
 [[WORLD/hidden/Setting/Welcome to Druskenvald!\|Welcome to Druskenvald!]]
 
