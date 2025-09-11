@@ -29,7 +29,7 @@ Osiera remembers the wicker charm she tucked into the wood on the porch and call
 	E: "Just don't do it again."
 	O: "I can't guarantee that!"
 </td> </tr> </table>
-[[Weasel King\|Weasel King]]
+
 Osiera see's the reflection of the crooked man in the cracked mirror and hears maniacal laughter before a journal slams to the ground with the initials P.D. on the ground. As she reaches for it, Eleana yells "Wait! Don't touch that yet!". At this point the rest of the party, led by Zora, burst through the doors ready for a fight.
 
 E: "It's okay, we got it-- we got it Zora."
