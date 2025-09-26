@@ -172,4 +172,11 @@ Returning to town, a man approaches Jiwho.
 J: "I've had enough of your type throughout my life, I don't need accusatory."
 	"Well, I'm not the one accusing you but it may come off as such. It's just that you resemble... there was a man who came through these parts about a week and a half, maybe two weeks ago. And apparently in the surrounding area there was a series of gruesome murders. The figure stopped here for a day or two then headed northeast. It's just you look almost as if you are him but you are not. Do you understand my meaning on that? I understand it must sound strange."
 J: "No, it is not the strangest thing I have heard or seen. However I have just arrived in town. I can guarantee you that the person you saw wasn't me, but I'd be interested in learning more."
-	"Well you see, back in my homeland of [[Edwardia\|Edwardia]] there was a curse known as The Grey. It gave strange duplications or such of people. I've been studying it for quite some time. I am a teacher at the local school house if you're interested in"
+	"Well you see, back in my homeland of [[Edwardia\|Edwardia]] there was a curse known as The Grey. It gave strange duplications or such of people. I've been studying it for quite some time. I am a teacher at the local school house if you're interested in talking about this."
+J: In deepspeech "Duality to remove ones sin."
+	"What was that? Have you eaten today? It sounds like your stomach is rumbling."
+J: "No I have not. I will stop by and see you."
+<font color="#90d5ff">{Jiwho is blessed for 24 hours}</font>
+
+##### <font color="#FF5582A6">I ain't been droppin' no eaves sir, honest.</font>
+The party see two men strolling down the road towards the Druskenvald manor. Jiwho overhears them, "Jeremiah, it's better work. I don't know what we're gonna do. If [[Foxwillow\|Foxwillow]] cant provide wheat to the surrounding areas we're gonna have a serious problem on our hands. We're not gonna have enough food to feed no one. Not to mention, ever since old [[Jericho Stix\|Jericho Stix]] dissappeared people are just going missing. There's maybe, what, six or seven of us left in Foxwillow entirely? Once I heard Lord and Lady Druskenvald were here I had to come plead my case myself. Otherwise everyone in [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]], well, they're gonna have to learn to feed on sticks and stones."
