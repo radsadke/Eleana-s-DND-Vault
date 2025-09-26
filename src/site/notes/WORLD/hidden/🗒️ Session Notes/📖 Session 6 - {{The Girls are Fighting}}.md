@@ -12,11 +12,8 @@ Grimm opens the door to a library littered with Dusty tomes and cobwebs. A desk 
 ```
 C: “Tell me a tale.”
 	G: “Tell *you* a tale?”
-	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If         it’s acceptable, these books will record it with words and illustrations.”
-```
-	C: “Tell me a tale.”
-	G: “Tell *you* a tale?”
 	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If it’s acceptable, these books will record it with words and illustrations.”
+```
 Skeptical but rolling low insight, Grimm sits at the desk and begins writing. The cat smiles as Grimm closes the book and all of the pages begin filling on their own.
 	C: “Would anyone else like to help me fill out the library?”
 The cat kicks another book onto the desk. Beau decides to give it a crack.
