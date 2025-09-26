@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world/hidden/session-notes/session-6-the-girls-are-fighting/"}
 ---
 
+![[clair obsc 1.mp3]]
 (It's a long one, buckle up)
 “Welcome to Mr. Squirrels’ Wild Ride where the ride never ends and you’re not allowed to get off.”
 
@@ -65,7 +66,7 @@ Grimm leads the party to the next room. Beau and Zora hang back as beau searches
 ## <mark style="background: #FF5582A6;">Trophy Room</mark>
 The party find themselves in a stuffed trophy room with artifacts and taxidermized animals scattered all over. 
 ##### <font color="#FF5582A6">Black Phillip</font>
-Beau walks into the room and sees a stuffed black goat with an uncanny resemblance to [[Black Phillip\|Black Phillip]]. Only Beau sees the goat come to life as it begins walking around the room. It gestures up towards another slain trophy, a monstrous crow with six black eyes on the top of its head. Beau looks up towards it and in the back of his head Phillip whispers something to him. Some party members notice Beaus unease for a split second before he returns to normal.
+Beau walks into the room and sees a stuffed black goat with an uncanny resemblance to [[Definitions/Black Phillip\|Black Phillip]]. Only Beau sees the goat come to life as it begins walking around the room. It gestures up towards another slain trophy, a monstrous crow with six black eyes on the top of its head. Beau looks up towards it and in the back of his head Phillip whispers something to him. Some party members notice Beaus unease for a split second before he returns to normal.
 ##### <font color="#FF5582A6">Exploring the room</font>
 Eleana rummages through the room looking for a pin but finds broken spears and hunting equipment. Osiera notices a trapdoor in the ceiling and points in out to the party as the likely entrance to the attic. As Beau takes an antler that is hanging on the wall, the party hear an awful cacophony of what sounds like screaming and barks and hissing before weasels begin shooting out of the walls, conglomerating into a massive [[Definitions/Weasel King\|Weasel King]]. The group obliterate the weasels.
 
@@ -110,11 +111,11 @@ The cauldron begins evaporating into smoke. Eleana runs towards it and looks ins
 B: "*Write them. Write them down on my jar. Inscribe them. Please. You must.*
 Eleana sees arcane symbols inside of the cauldron.
 B: "*They are - They are so magic.* You must inscribe them into my vessel."
-The party are witnessing this thinking Eleana has gone batshit crazy. Brian whispers something only Eleana can hear. ([[Brians Message\|Brians Message]]) Eleana cuts her finger and inscribes the runes on the glass with her blood.
+The party are witnessing this thinking Eleana has gone batshit crazy. Brian whispers something only Eleana can hear. ([[WORLD/hidden/Handouts & Notes/Brians Message\|Brians Message]]) Eleana cuts her finger and inscribes the runes on the glass with her blood.
 
 <font color="#90d5ff">{The party levels up!}</font>
 ##### <font color="#FF5582A6">It was all just a dream</font>
-Phillip and Adela stand up, looking around confused. As the party rub their eyes the house suddenly returns back to normal. The only indication of anything creepy happening in this house are the teeth still scattered on the floor and three names etched on the wall. The first name that is scratched out is [[Vesla Browntooth\|Vesla Browntooth]], the next two names are [[Stonoga Blackstinger\|Stonoga Blackstinger]] and [[Golub GrayGullet\|Golub GrayGullet]]. 
+Phillip and Adela stand up, looking around confused. As the party rub their eyes the house suddenly returns back to normal. The only indication of anything creepy happening in this house are the teeth still scattered on the floor and three names etched on the wall. The first name that is scratched out is [[Definitions/Vesla Browntooth\|Vesla Browntooth]], the next two names are [[Definitions/Stonoga Blackstinger\|Stonoga Blackstinger]] and [[Definitions/Golub GrayGullet\|Golub GrayGullet]]. 
 
 Adela is worried about Phillip but he is wordless and seems annoyed. 
 ```
@@ -170,7 +171,7 @@ As Osiera shuffles the cards one falls out. When she goes to put it back in the 
 ```
 O: "No, don't touch it. That's the one that you're meant to see."
 ```
-Osiera takes a deep breath and then flips the card, revaling [[The Hermit\|The Hermit]].
+Osiera takes a deep breath and then flips the card, revaling [[Definitions/The Hermit\|The Hermit]].
 ```
 A: "Hm. There's something about you that sticks out as having been alone for quite some time. And trust me before I was with Philly, oh, I almost don't even remember how long I was alone for. I used to make up people all the time. But you don't need to run away."
 O: "Do you think I made up my sister? Is that what you're telling me?"
@@ -212,7 +213,7 @@ J: "No I have not. I will stop by and see you."
 <font color="#90d5ff">{Jiwho is blessed for 24 hours}</font>
 
 ##### <font color="#FF5582A6">I ain't been droppin' no eaves sir, honest.</font>
-The party see two men strolling down the road towards the Druskenvald manor. Jiwho overhears them, "Jeremiah, it's better work. I don't know what we're gonna do. If [[Foxwillow\|Foxwillow]] cant provide wheat to the surrounding areas we're gonna have a serious problem on our hands. We're not gonna have enough food to feed no one. Not to mention, ever since old [[Jericho Stix\|Jericho Stix]] dissappeared people are just going missing. There's maybe, what, six or seven of us left in Foxwillow entirely? Once I heard Lord and Lady Druskenvald were here I had to come plead my case myself. Otherwise everyone in [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]], well, they're gonna have to learn to feed on sticks and stones."
+The party see two men strolling down the road towards the Druskenvald manor. Jiwho overhears them, "Jeremiah, it's better work. I don't know what we're gonna do. If [[Definitions/Foxwillow\|Foxwillow]] cant provide wheat to the surrounding areas we're gonna have a serious problem on our hands. We're not gonna have enough food to feed no one. Not to mention, ever since old [[Definitions/Jericho Stix\|Jericho Stix]] dissappeared people are just going missing. There's maybe, what, six or seven of us left in Foxwillow entirely? Once I heard Lord and Lady Druskenvald were here I had to come plead my case myself. Otherwise everyone in [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]], well, they're gonna have to learn to feed on sticks and stones."
 
 ---
 "Shit's getting spicy Squirrel" (Schad)
