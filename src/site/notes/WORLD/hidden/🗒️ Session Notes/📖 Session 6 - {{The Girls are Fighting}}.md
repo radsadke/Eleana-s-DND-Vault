@@ -179,13 +179,13 @@ B: "That face doesn't look like you got the information you were looking for."
 O: "Yeah, uhm... yeah."
 ##### <font color="#FF5582A6">Seeing Double</font>
 Returning to town, a man approaches Jiwho.
-	"I'm sorry sir, I must have been mistaken. Do you mind if i ask you a quick question? It might seem strange and potentially accusatory but I don't mean to sound as such."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I'm sorry sir, I must have been mistaken. Do you mind if i ask you a quick question? It might seem strange and potentially accusatory but I don't mean to sound as such."
 J: "I've had enough of your type throughout my life, I don't need accusatory."
-	"Well, I'm not the one accusing you but it may come off as such. It's just that you resemble... there was a man who came through these parts about a week and a half, maybe two weeks ago. And apparently in the surrounding area there was a series of gruesome murders. The figure stopped here for a day or two then headed northeast. It's just you look almost as if you are him but you are not. Do you understand my meaning on that? I understand it must sound strange."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Well, I'm not the one accusing you but it may come off as such. It's just that you resemble... there was a man who came through these parts about a week and a half, maybe two weeks ago. And apparently in the surrounding area there was a series of gruesome murders. The figure stopped here for a day or two then headed northeast. It's just you look almost as if you are him but you are not. Do you understand my meaning on that? I understand it must sound strange."
 J: "No, it is not the strangest thing I have heard or seen. However I have just arrived in town. I can guarantee you that the person you saw wasn't me, but I'd be interested in learning more."
-	"Well you see, back in my homeland of [[Edwardia\|Edwardia]] there was a curse known as The Grey. It gave strange duplications or such of people. I've been studying it for quite some time. I am a teacher at the local school house if you're interested in talking about this."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Well you see, back in my homeland of [[Edwardia\|Edwardia]] there was a curse known as The Grey. It gave strange duplications or such of people. I've been studying it for quite some time. I am a teacher at the local school house if you're interested in talking about this."
 J: In deepspeech "Duality to remove ones sin."
-	"What was that? Have you eaten today? It sounds like your stomach is rumbling."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"What was that? Have you eaten today? It sounds like your stomach is rumbling."
 J: "No I have not. I will stop by and see you."
 <font color="#90d5ff">{Jiwho is blessed for 24 hours}</font>
 
