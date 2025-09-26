@@ -149,4 +149,27 @@ Adela holds out a deck of 22 cards.
 	A: "I need you to shuffle these and maybe we can get to the bottom of this, and understand what's going on"
 As Osiera shuffles the cards one falls out. When she goes to put it back in the deck Adela slams her hand down onto it.
 	O: "No, don't touch it. That's the one that you're meant to see."
-Osiera takes a deep breath and then flips the card. [[The Hermit\|The Hermit]]
+Osiera takes a deep breath and then flips the card, revaling [[The Hermit\|The Hermit]].
+	A: "Hm. There's something about you that sticks out as having been alone for quite some time. And trust me before I was with Philly, oh, I almost don't even remember how long I was alone for. I used to make up people all the time. But you don't need to run away."
+	O: "Do you think I made up my sister? Is that what you're telling me?"
+	A: "No. I'm telling you that grief makes you make up memories that weren't there. And if you're saying you came for your sister- cause I never even asked you about that- perhaps she's been gone a lot longer than you want to believe."
+Osiera shakes her head.
+	A: "This place is the land of second chances darling, don't worry. The hermit's not as lonely as it may look. You've gotta break up your routine. It's time to forge your own path now. Be yourself. Be your own identity, not live behind the fact that you two were similar... weren't you? Identical almost."
+	O: "Yeah, pretty much."
+	A: "It's easy to look at a book and think that that's the way to walk, but you've gotta start relying on yourself. And only then will you find what you're looking for."
+	O: "Okay. -- But you said you know me, from some dream?"
+	A: "I've seen a lot of your friends as well. But I prefer to keep my secrets when I can. Something strange is going on here and I insist that Philly gets us out but I understand his resolve in why we must go through with it. Fates inevitability, you can't stop it from happening."
+	O: "I can try."
+Adela tells her that it's a few hours until dinner and they should all go get some moonlight while they can, enjoy it. Osiera stands up abruptly and walks out.\
+
+## <mark style="background: #FF5582A6;">We out this bitch</mark>
+When Osiera comes out of the house she has a vacant stare and doesn't say anything.
+B: "That face doesn't look like you got the information you were looking for."
+O: "Yeah, uhm... yeah."
+
+Returning to town, a man approaches Jiwho.
+	"I'm sorry sir, I must have been mistaken. Do you mind if i ask you a quick question? It might seem strange and potentially accusatory but I don't mean to sound as such."
+J: "I've had enough of your type throughout my life, I don't need accusatory."
+	"Well, I'm not the one accusing you but it may come off as such. It's just that you resemble... there was a man who came through these parts about a week and a half, maybe two weeks ago. And apparently in the surrounding area there was a series of gruesome murders. The figure stopped here for a day or two then headed northeast. It's just you look almost as if you are him but you are not. Do you understand my meaning on that? I understand it must sound strange."
+J: "No, it is not the strangest thing I have heard or seen. However I have just arrived in town. I can guarantee you that the person you saw wasn't me, but I'd be interested in learning more."
+	"Well you see, back in my homeland of [[Edwardia\|Edwardia]] there was a curse known as The Grey. It gave strange duplications or such of people. I've been studying it for quite some time. I am a teacher at the local school house if you're interested in"
