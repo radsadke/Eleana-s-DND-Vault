@@ -36,23 +36,23 @@ Zora find 4 bottles in the drinks cart that seem to contain healing potions. She
 Eleana is skeptical about the weird interaction the party just experienced so she starts investigating the books. She notices that each title is a name, the the three on the desk are familiar: Grimm Halvrek, Beauregard LeRoux, and Zora Zorin. At this moment, those party members feel an inescapable urge to attack the closest person to them in the room with the strongest thing in their arsenal.
 ##### <font color="#FF5582A6">The Girls are Fighting</font>
 Beau snaps his head towards Osiera and flaming tendrils shoot out from his hand (Hells Lash). Osiera is burned and poisoned within an inch of her life. Beau snaps back into his body and see's what he has done.
-&nbsp;&nbsp;&nbsp;&nbsp;B: "Oh!! I apologize. I deeply apologize. I don't know what came over me."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "Oh!! I apologize. I deeply apologize. I don't know what came over me."
 Hurt and angry, Osiera has to hold herself back from punching Beau because she knows that one hit to his armor would knock her out. She instead backs away.
-&nbsp;&nbsp;&nbsp;&nbsp;O: "What the fuck?? *What the fuck was that??* Leave me alone! 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O: "What the fuck?? *What the fuck was that??* Leave me alone! 
 She looks around at the rest of the party, recognizing that Grimm and Zora also seem to be affected by the same charm as Beau.
-&nbsp;&nbsp;&nbsp;&nbsp;O: "Eleana, Jiwho, watch out!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O: "Eleana, Jiwho, watch out!"
 Grimm starts growling and shaking his head but manages to snap out of this charm. He notices Zora about to swing at the drow and attacks her (with reckless and savage). Jiwho tells Eleana to run as he disengages and runs over to Osiera. Eleana drops the books in her hands, says "Zora, snap the *fuck* out of it!", and also runs towards Osiera. Zora smites Jiwho's badger killing it in one swing but is still unable to break the charm. Beau says "Zora, snap out of it!" with honeyed words, charming the already charmed Zora.
-&nbsp;&nbsp;&nbsp;&nbsp;B: "Alright, we all settled now?"
-&nbsp;&nbsp;&nbsp;&nbsp;G: To zora "Sorry I hit you in the head, do you need this healing potion I just got?"
-&nbsp;&nbsp;&nbsp;&nbsp;Z: "If you hit me in the head, I'll hit you back. No, I'm good."
-&nbsp;&nbsp;&nbsp;&nbsp;G: "Alright... just saying."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "Alright, we all settled now?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G: To zora "Sorry I hit you in the head, do you need this healing potion I just got?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z: "If you hit me in the head, I'll hit you back. No, I'm good."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G: "Alright... just saying."
 The party notice how hurt Osiera looks and try to help her. Zora lays her hand on Osiera's burns and heals her. Jiwho cures her poison.
-&nbsp;&nbsp;&nbsp;&nbsp;E: "Beau, what the fuck!"
-&nbsp;&nbsp;&nbsp;&nbsp;B: "I didn't mean to! I don't know what came over me."
-&nbsp;&nbsp;&nbsp;&nbsp;O: "Beau, that was so fucked up, what was that?"
-&nbsp;&nbsp;&nbsp;&nbsp;B: "I don't rightly know to be honest with you. I don't like to scrap like that."
-&nbsp;&nbsp;&nbsp;&nbsp;O: "How are we supposed to fight this hag upstairs if we keep using our resources on stupid shit and dealing with each other and not... the big stuff. This is fucked."
-&nbsp;&nbsp;&nbsp;&nbsp;B: "It could be worse."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E: "Beau, what the fuck!"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "I didn't mean to! I don't know what came over me."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O: "Beau, that was so fucked up, what was that?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "I don't rightly know to be honest with you. I don't like to scrap like that."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O: "How are we supposed to fight this hag upstairs if we keep using our resources on stupid shit and dealing with each other and not... the big stuff. This is fucked."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "It could be worse."
 ##### <font color="#FF5582A6">Zora and Beau</font>
 Zora stares at Beau. "Uh, can i help you?" he asks. Zora keeps staring. Realizing the reason she is mad is due to his charm he tries to explain, "Oh! that's right... uhm, I've never had this issue before. Here's the thing about this issue, it isn't a regular charm. I can't just end it. Eh, you'll be fine in a day."
 E: "In a day? We don't even know if we'll be alive in a day. What did you do to her?"
