@@ -117,19 +117,19 @@ The party are witnessing this thinking Eleana has gone batshit crazy. Brian whis
 Phillip and Adela stand up, looking around confused. As the party rub their eyes the house suddenly returns back to normal. The only indication of anything creepy happening in this house are the teeth still scattered on the floor and three names etched on the wall. The first name that is scratched out is [[Vesla Browntooth\|Vesla Browntooth]], the next two names are [[Stonoga Blackstinger\|Stonoga Blackstinger]] and [[Golub GrayGullet\|Golub GrayGullet]]. 
 
 Adela is worried about Phillip but he is wordless and seems annoyed. 
-	A: "Why are you all here?"
-	B: "We came looking for you. We were offered a wonderful dinner."
-	A: "We were in the middle of preparing dinner just now."
-	E: "Adela, you were passed out a minute ago."
-	A: "No, we were in the middle of preparing dinner and getting ready for the big day. Right Philly?"
-	P: "Yes, of course. You see friends we were getting ready for a lovely three course meal and in the middle of making our making dinner we passed out and began experiencing horrific nightmares... until just now, when this whole thing seemed to snap us out of it."
-	B: "Well you seemed to have a hag problem."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: "Why are you all here?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "We came looking for you. We were offered a wonderful dinner."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: "We were in the middle of preparing dinner just now."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E: "Adela, you were passed out a minute ago."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: "No, we were in the middle of preparing dinner and getting ready for the big day. Right Philly?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P: "Yes, of course. You see friends we were getting ready for a lovely three course meal and in the middle of making our making dinner we passed out and began experiencing horrific nightmares... until just now, when this whole thing seemed to snap us out of it."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B: "Well you seemed to have a hag problem."
 Eleana eyes Phillip suspiciously. He seems to be a little stressed and catches Elaena's glimpse.
-	P: "Adela, why don't you meet us downstairs so we can host our friends for dinner."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P: "Adela, why don't you meet us downstairs so we can host our friends for dinner."
 Beau notices that Adela keeps glancing at Osiera with an inquisitive look.
-	A: "Of course. friends, if you need anything I'll be downstairs." to Osiera "I think I may need to talk to you. Are you from around here?"
-	O: "No, I came through the fog yesterday."
-	A: "I can't shake the feeling that I've seen you before, we can talk about it downstairs. Philly, I'll be downstairs."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: "Of course. friends, if you need anything I'll be downstairs." to Osiera "I think I may need to talk to you. Are you from around here?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O: "No, I came through the fog yesterday."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: "I can't shake the feeling that I've seen you before, we can talk about it downstairs. Philly, I'll be downstairs."
 ##### <font color="#FF5582A6">Phillip being sus</font>
 P: "Now that she's headed downstairs, I can talk a little bit more in detail. You see, I know later on this evening she will be asking me to return to our chateau as soon as possible. But I know something in these lands is afflicting me in a strange way. And in order for me to face it I must stay here. You all are welcome to use the guest rooms that we have. -- I would like to give you this. 
 
