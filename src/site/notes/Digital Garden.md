@@ -13,7 +13,8 @@
 [[WORLD/hidden/🗒️ Session Notes/📖 Session 6 - {{The Girls are Fighting}}\|📖 Session 6 - {{The Girls are Fighting}}]]
 ## <mark style="background: #ADCCFFA6;">World/Setting</mark>
 [[WORLD/hidden/Setting/Welcome to Druskenvald!\|Welcome to Druskenvald!]]
-[[Places\|Places]]
+[[WORLD/hidden/Setting/Places\|Places]]
+[[music\|music]]
 ## <mark style="background: #ADCCFFA6;">Party</mark>
 [[WORLD/hidden/🧬 Character/backstory/Eleana\|Eleana]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Beauregard Laroux\|Beauregard Laroux]]
