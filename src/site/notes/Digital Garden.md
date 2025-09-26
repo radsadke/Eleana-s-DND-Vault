@@ -14,7 +14,6 @@
 ## <mark style="background: #ADCCFFA6;">World/Setting</mark>
 [[WORLD/hidden/Setting/Welcome to Druskenvald!\|Welcome to Druskenvald!]]
 [[WORLD/hidden/Setting/Places\|Places]]
-[[music\|music]]
 ## <mark style="background: #ADCCFFA6;">Party</mark>
 [[WORLD/hidden/🧬 Character/backstory/Eleana\|Eleana]]
 [[WORLD/hidden/🧑‍🤝‍🧑 Party Info/Beauregard Laroux\|Beauregard Laroux]]
