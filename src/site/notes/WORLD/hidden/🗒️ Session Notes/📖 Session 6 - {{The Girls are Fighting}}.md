@@ -36,7 +36,7 @@ Zora find 4 bottles in the drinks cart that seem to contain healing potions. She
 Eleana is skeptical about the weird interaction the party just experienced so she starts investigating the books. She notices that each title is a name, the the three on the desk are familiar: Grimm Halvrek, Beauregard LeRoux, and Zora Zorin. At this moment, those party members feel an inescapable urge to attack the closest person to them in the room with the strongest thing in their arsenal.
 ##### <font color="#FF5582A6">The Girls are Fighting</font>
 Beau snaps his head towards Osiera and flaming tendrils shoot out from his hand (Hells Lash). Osiera is burned and poisoned within an inch of her life. Beau snaps back into his body and see's what he has done.
-	B: "Oh!! I apologize. I deeply apologize. I don't know what came over me."
+&nbsp;&nbsp;&nbsp;&nbsp;B: "Oh!! I apologize. I deeply apologize. I don't know what came over me."
 Hurt and angry, Osiera has to hold herself back from punching Beau because she knows that one hit to his armor would knock her out. She instead backs away.
 	O: "What the fuck?? *What the fuck was that??* Leave me alone! 
 She looks around at the rest of the party, recognizing that Grimm and Zora also seem to be affected by the same charm as Beau.
