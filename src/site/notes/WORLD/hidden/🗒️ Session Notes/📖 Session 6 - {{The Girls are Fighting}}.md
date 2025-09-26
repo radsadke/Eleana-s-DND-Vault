@@ -11,16 +11,22 @@ The party find themselves on the third floor of this crooked house, with only tw
 Grimm opens the door to a library littered with Dusty tomes and cobwebs. A desk sits in the center of the room and atop that is a Cheshire cat with golden eyes. It speaks to the party:
 ```
 C: “Tell me a tale.”
-	G: “Tell *you* a tale?”
-	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If it’s acceptable, these books will record it with words and illustrations.”
+G: “Tell *you* a tale?”
+C: “Yes, write it down in this book. Sit in the chair and tell me a story. If it’s acceptable, these books will record it with words and illustrations.”
 ```
 Skeptical but rolling low insight, Grimm sits at the desk and begins writing. The cat smiles as Grimm closes the book and all of the pages begin filling on their own.
-	C: “Would anyone else like to help me fill out the library?”
+```
+C: “Would anyone else like to help me fill out the library?”
+```
 The cat kicks another book onto the desk. Beau decides to give it a crack.
-	C: "I suppose that's acceptable. Anyone else who would like to help fill this library of mine?"
+```
+C: "I suppose that's acceptable. Anyone else who would like to help fill this library of mine?"
+```
 Osiera steps forward hesitantly and tries to write a story. The cat is not impressed even though she is inspired by the guidance and friendship around her.
-	C: "Could someone else with something more *interesting* to write step up?"
-	O: "That's really *fucking* rude" Osiera mutters to herself as she walks away.
+```
+C: "Could someone else with something more *interesting* to write step up?"
+O: "That's really *fucking* rude" Osiera mutters to herself as she walks away.
+```
 Zora sits at the desk and writes one final story, pleasing the cat. It looks around at everyone, "Thank you all, you have been ever so helpful". It winks and then vanishes.
 
 <font color="#90d5ff">{Party can roll hit dice as if they have taken a short rest (+4 for each die)}</font>
