@@ -9,6 +9,7 @@
 The party find themselves on the third floor of this crooked house, with only two rooms left unexplored. They have collected all relics except for one, a pin, which they need to get into the attic and face whatever is up there.
 ### <mark style="background: #FF5582A6;">The Library</mark>
 Grimm opens the door to a library littered with Dusty tomes and cobwebs. A desk sits in the center of the room and atop that is a Cheshire cat with golden eyes. It speaks to the party:
+	
 	C: “Tell me a tale.”
 	G: “Tell *you* a tale?”
 	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If it’s acceptable, these books will record it with words and illustrations.”
