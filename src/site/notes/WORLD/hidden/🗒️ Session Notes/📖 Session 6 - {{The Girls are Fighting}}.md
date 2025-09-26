@@ -9,20 +9,21 @@
 The party find themselves on the third floor of this crooked house, with only two rooms left unexplored. They have collected all relics except for one, a pin, which they need to get into the attic and face whatever is up there.
 ### <mark style="background: #FF5582A6;">The Library</mark>
 Grimm opens the door to a library littered with Dusty tomes and cobwebs. A desk sits in the center of the room and atop that is a Cheshire cat with golden eyes. It speaks to the party:
+```
+C: “Tell me a tale.”
+	G: “Tell *you* a tale?”
+	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If         it’s acceptable, these books will record it with words and illustrations.”
+```
 	C: “Tell me a tale.”
 	G: “Tell *you* a tale?”
 	C: “Yes, write it down in this book. Sit in the chair and tell me a story. If it’s acceptable, these books will record it with words and illustrations.”
-
 Skeptical but rolling low insight, Grimm sits at the desk and begins writing. The cat smiles as Grimm closes the book and all of the pages begin filling on their own.
 	C: “Would anyone else like to help me fill out the library?”
-
 The cat kicks another book onto the desk. Beau decides to give it a crack.
 	C: "I suppose that's acceptable. Anyone else who would like to help fill this library of mine?"
-
 Osiera steps forward hesitantly and tries to write a story. The cat is not impressed even though she is inspired by the guidance and friendship around her.
 	C: "Could someone else with something more *interesting* to write step up?"
 	O: "That's really *fucking* rude" Osiera mutters to herself as she walks away.
-
 Zora sits at the desk and writes one final story, pleasing the cat. It looks around at everyone, "Thank you all, you have been ever so helpful". It winks and then vanishes.
 
 <font color="#90d5ff">{Party can roll hit dice as if they have taken a short rest (+4 for each die)}</font>
@@ -33,13 +34,10 @@ Eleana is skeptical about the weird interaction the party just experienced so sh
 ##### <font color="#FF5582A6">The Girls are Fighting</font>
 Beau snaps his head towards Osiera and flaming tendrils shoot out from his hand (Hells Lash). Osiera is burned and poisoned within an inch of her life. Beau snaps back into his body and see's what he has done.
 	B: "Oh!! I apologize. I deeply apologize. I don't know what came over me."
-
 Hurt and angry, Osiera has to hold herself back from punching Beau because she knows that one hit to his armor would knock her out. She instead backs away.
 	O: "What the fuck?? *What the fuck was that??* Leave me alone! 
-
 She looks around at the rest of the party, recognizing that Grimm and Zora also seem to be affected by the same charm as Beau.
 	O: "Eleana, Jiwho, watch out!"
-
 Grimm starts growling and shaking his head but manages to snap out of this charm. He notices Zora about to swing at the drow and attacks her (with reckless and savage). Jiwho tells Eleana to run as he disengages and runs over to Osiera. Eleana drops the books in her hands, says "Zora, snap the *fuck* out of it!", and also runs towards Osiera. Zora smites Jiwho's badger killing it in one swing but is still unable to break the charm. Beau says "Zora, snap out of it!" with honeyed words, charming the already charmed Zora.
 	B: "Alright, we all settled now?"
 	G: To zora "Sorry I hit you in the head, do you need this healing potion I just got?"
