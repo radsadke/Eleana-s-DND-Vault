@@ -166,7 +166,7 @@ Adela tells her that it's a few hours until dinner and they should all go get so
 When Osiera comes out of the house she has a vacant stare and doesn't say anything.
 B: "That face doesn't look like you got the information you were looking for."
 O: "Yeah, uhm... yeah."
-
+##### <font color="#FF5582A6">Seeing Double</font>
 Returning to town, a man approaches Jiwho.
 	"I'm sorry sir, I must have been mistaken. Do you mind if i ask you a quick question? It might seem strange and potentially accusatory but I don't mean to sound as such."
 J: "I've had enough of your type throughout my life, I don't need accusatory."
@@ -180,3 +180,6 @@ J: "No I have not. I will stop by and see you."
 
 ##### <font color="#FF5582A6">I ain't been droppin' no eaves sir, honest.</font>
 The party see two men strolling down the road towards the Druskenvald manor. Jiwho overhears them, "Jeremiah, it's better work. I don't know what we're gonna do. If [[Foxwillow\|Foxwillow]] cant provide wheat to the surrounding areas we're gonna have a serious problem on our hands. We're not gonna have enough food to feed no one. Not to mention, ever since old [[Jericho Stix\|Jericho Stix]] dissappeared people are just going missing. There's maybe, what, six or seven of us left in Foxwillow entirely? Once I heard Lord and Lady Druskenvald were here I had to come plead my case myself. Otherwise everyone in [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]], well, they're gonna have to learn to feed on sticks and stones."
+
+---
+"Shit's getting spicy Squirrel" (Schad)
