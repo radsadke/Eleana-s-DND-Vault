@@ -126,6 +126,27 @@ Beau notices that Adela keeps glancing at Osiera with an inquisitive look.
 	O: "No, I came through the fog yesterday."
 	A: "I can't shake the feeling that I've seen you before, we can talk about it downstairs. Philly, I'll be downstairs."
 ##### <font color="#FF5582A6">Phillip being sus</font>
-P: "Now that she's headed downstairs, I can talk a little bit more in detail. You see, I know later on this evening she will be asking me to return to our chateau as soon as possible. But I know something in these lands is afflicting me in a strange way. And in order for me to face it I must stay here. You all are welcome to use the guest rooms that we have. -- I would like to give you this. I'd appreciate if you'd let me know if you hear about any other issues happening around the area of [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]]. I'd like to do what I can to help these people. You see, I've been quite negligent in the last few years."
+P: "Now that she's headed downstairs, I can talk a little bit more in detail. You see, I know later on this evening she will be asking me to return to our chateau as soon as possible. But I know something in these lands is afflicting me in a strange way. And in order for me to face it I must stay here. You all are welcome to use the guest rooms that we have. -- I would like to give you this. 
 
 He hands over a bag of gold (900gp, 150gp each)
+
+P: "I'd appreciate if you'd let me know if you hear about any other issues happening around the area of [[Definitions/Wickermoor Hollow\|Wickermoor Hollow]]. I'd like to do what I can to help these people. You see, I've been quite negligent in the last few years. Now, why don't we all head out of this dusty attic and head back downstairs."
+
+## <mark style="background: #FF5582A6;">Osiera's Tarot Reading</mark>
+Adela stops what she's doing when the party arrive downstairs. "Listen, I know I got to know you all pretty well on the train but I didn't get to know this one as well as I'd like to. Do you mind if I steal them for a few minutes?" The party look at eachother and Beau leans into Osiera, whispering to her in Elvish, "Keep your guard up around her." Osiera reassures the party but mouths the words "stay close" before following her into the parlor.
+
+Osiera sits across from her cautiously
+	A: "take a seat there for me. First I've got a couple of questions. Do you mind telling me a little bit about who you are and why you're here?"
+	O: "What do you want to know?"
+Adela seems uncomfortable.
+	A: "Have I seen you before? Have we met and you're just playing some joke on me?"
+	O: "No, I don't think I've ever seen you before."
+	A: "See, it's just kind of weird. I swear I've seen you before. Anyways--"
+Osiera crosses her arms defensively and skeptical.
+	O: "Look, I don't know you. I- my sister has gone missing. She left behind a journal that had drawings of this mansion so I made everyone come here first thing in the morning."
+Osiera has flashes of memories in her mind like static. She begins to realize something, her sister has been gone for a lot longer than she wants to admit. In her head she built this image of them still there. They've been gone for at least a few months.
+Adela holds out a deck of 22 cards.
+	A: "I need you to shuffle these and maybe we can get to the bottom of this, and understand what's going on"
+As Osiera shuffles the cards one falls out. When she goes to put it back in the deck Adela slams her hand down onto it.
+	O: "No, don't touch it. That's the one that you're meant to see."
+Osiera takes a deep breath and then flips the card. [[The Hermit\|The Hermit]]
