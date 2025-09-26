@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/world/hidden/session-notes/session-6-the-girls-are-fighting/"}
 ---
 
-![[clair obsc 1.mp3]]
 (It's a long one, buckle up)
 “Welcome to Mr. Squirrels’ Wild Ride where the ride never ends and you’re not allowed to get off.”
 
