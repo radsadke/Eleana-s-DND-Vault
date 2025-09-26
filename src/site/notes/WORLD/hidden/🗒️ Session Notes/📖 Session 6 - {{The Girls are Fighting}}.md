@@ -216,3 +216,6 @@ The party see two men strolling down the road towards the Druskenvald manor. Jiw
 
 ---
 "Shit's getting spicy Squirrel" (Schad)
+
+---
+*"As you all stand in the center of Wickermoor village, the Tree of Many Faces staring blankly outward as you all stand nearby, finally having escaped the Crooked House and it's strange temporal deformities, you all finally have a moment to breathe... you think."*
